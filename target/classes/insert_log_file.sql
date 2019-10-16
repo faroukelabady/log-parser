@@ -1,0 +1,1 @@
+INSERT INTO `logs`.`log_file` (`name`,`path`,`last_update_time`) VALUES (?,?,?);

@@ -1,0 +1,1 @@
+UPDATE `logs`.`log_file` SET `last_update_time` = ? WHERE `id` = ?;

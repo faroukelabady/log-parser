@@ -1,0 +1,1 @@
+SELECT max(line_number) FROM `logs`.`log_data` where log_file_id = ?;
